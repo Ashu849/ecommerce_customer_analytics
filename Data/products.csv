@@ -1,0 +1,26 @@
+Product_ID,Product,Category,Unit_Price,Unit_Cost
+P001,Wireless Mouse,Electronics,899,510
+P002,Bluetooth Speaker,Electronics,2499,1550
+P003,Smart Watch,Electronics,4999,3100
+P004,Laptop Stand,Electronics,1499,800
+P005,USB-C Hub,Electronics,1899,1050
+P006,Running Shoes,Fashion,3299,1900
+P007,Casual Shirt,Fashion,1299,620
+P008,Denim Jeans,Fashion,2199,1100
+P009,Handbag,Fashion,2799,1450
+P010,Winter Jacket,Fashion,4499,2500
+P011,Mixer Grinder,Home Appliances,3799,2450
+P012,Electric Kettle,Home Appliances,1599,880
+P013,Air Fryer,Home Appliances,6999,4350
+P014,Table Lamp,Home Decor,1199,570
+P015,Wall Clock,Home Decor,999,430
+P016,Bedsheet Set,Home Decor,1799,850
+P017,Office Chair,Furniture,8499,5600
+P018,Study Table,Furniture,7299,4700
+P019,Python for Analysts,Books,699,290
+P020,Data Science Handbook,Books,999,410
+P021,Yoga Mat,Fitness,1299,610
+P022,Dumbbell Set,Fitness,3499,2200
+P023,Skin Care Kit,Beauty,1999,1050
+P024,Hair Dryer,Beauty,2299,1320
+P025,Coffee Maker,Home Appliances,5299,3400

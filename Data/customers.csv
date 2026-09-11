@@ -1,0 +1,51 @@
+Customer_ID,Customer_Name,Gender,Age,City,State,Registration_Date
+C001,Aarav Gupta,Male,27,Noida,Uttar Pradesh,2023-01-18
+C002,Aditi Khan,Female,34,Delhi,Delhi,2023-02-04
+C003,Arjun Verma,Male,41,Gurugram,Haryana,2023-02-21
+C004,Ananya Mehta,Female,48,Mumbai,Maharashtra,2023-03-10
+C005,Kabir Das,Male,55,Pune,Maharashtra,2023-03-27
+C006,Meera Singh,Female,26,Bengaluru,Karnataka,2023-04-13
+C007,Rohan Patel,Male,33,Hyderabad,Telangana,2023-04-30
+C008,Kavya Sharma,Female,40,Chennai,Tamil Nadu,2023-05-17
+C009,Vivek Gupta,Male,47,Jaipur,Rajasthan,2023-06-03
+C010,Neha Khan,Female,54,Kolkata,West Bengal,2023-06-20
+C011,Rahul Verma,Male,25,Noida,Uttar Pradesh,2023-07-07
+C012,Priya Mehta,Female,32,Delhi,Delhi,2023-07-24
+C013,Aman Das,Male,39,Gurugram,Haryana,2023-08-10
+C014,Isha Singh,Female,46,Mumbai,Maharashtra,2023-08-27
+C015,Nikhil Patel,Male,53,Pune,Maharashtra,2023-09-13
+C016,Pooja Sharma,Female,24,Bengaluru,Karnataka,2023-09-30
+C017,Sanjay Gupta,Male,31,Hyderabad,Telangana,2023-10-17
+C018,Ritika Khan,Female,38,Chennai,Tamil Nadu,2023-11-03
+C019,Varun Verma,Male,45,Jaipur,Rajasthan,2023-11-20
+C020,Simran Mehta,Female,52,Kolkata,West Bengal,2023-12-07
+C021,Aarav Das,Male,23,Noida,Uttar Pradesh,2023-12-24
+C022,Aditi Singh,Female,30,Delhi,Delhi,2024-01-10
+C023,Arjun Patel,Male,37,Gurugram,Haryana,2024-01-27
+C024,Ananya Sharma,Female,44,Mumbai,Maharashtra,2024-02-13
+C025,Kabir Gupta,Male,51,Pune,Maharashtra,2024-03-01
+C026,Meera Khan,Female,22,Bengaluru,Karnataka,2024-03-18
+C027,Rohan Verma,Male,29,Hyderabad,Telangana,2024-04-04
+C028,Kavya Mehta,Female,36,Chennai,Tamil Nadu,2024-04-21
+C029,Vivek Das,Male,43,Jaipur,Rajasthan,2024-05-08
+C030,Neha Singh,Female,50,Kolkata,West Bengal,2024-05-25
+C031,Rahul Patel,Male,21,Noida,Uttar Pradesh,2024-06-11
+C032,Priya Sharma,Female,28,Delhi,Delhi,2024-06-28
+C033,Aman Gupta,Male,35,Gurugram,Haryana,2024-07-15
+C034,Isha Khan,Female,42,Mumbai,Maharashtra,2024-08-01
+C035,Nikhil Verma,Male,49,Pune,Maharashtra,2024-08-18
+C036,Pooja Mehta,Female,20,Bengaluru,Karnataka,2024-09-04
+C037,Sanjay Das,Male,27,Hyderabad,Telangana,2024-09-21
+C038,Ritika Singh,Female,34,Chennai,Tamil Nadu,2024-10-08
+C039,Varun Patel,Male,41,Jaipur,Rajasthan,2023-01-14
+C040,Simran Sharma,Female,48,Kolkata,West Bengal,2023-01-31
+C041,Aarav Gupta,Male,55,Noida,Uttar Pradesh,2023-02-17
+C042,Aditi Khan,Female,26,Delhi,Delhi,2023-03-06
+C043,Arjun Verma,Male,33,Gurugram,Haryana,2023-03-23
+C044,Ananya Mehta,Female,40,Mumbai,Maharashtra,2023-04-09
+C045,Kabir Das,Male,47,Pune,Maharashtra,2023-04-26
+C046,Meera Singh,Female,54,Bengaluru,Karnataka,2023-05-13
+C047,Rohan Patel,Male,25,Hyderabad,Telangana,2023-05-30
+C048,Kavya Sharma,Female,32,Chennai,Tamil Nadu,2023-06-16
+C049,Vivek Gupta,Male,39,Jaipur,Rajasthan,2023-07-03
+C050,Neha Khan,Female,46,Kolkata,West Bengal,2023-07-20

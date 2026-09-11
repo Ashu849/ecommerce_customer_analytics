@@ -1,0 +1,51 @@
+Customer_ID,Recency,Frequency,Monetary,Customer_Segment
+C001,170,5,8810.2,At-Risk Customer
+C002,63,5,13786.2,Regular Customer
+C003,136,5,12591.6,At-Risk Customer
+C004,19,5,97806.6,Champion
+C005,92,5,10132.2,At-Risk Customer
+C006,155,5,17666.4,At-Risk Customer
+C007,48,5,36441.9,Loyal Customer
+C008,111,5,31726.2,At-Risk Customer
+C009,4,5,58791.6,Champion
+C010,67,5,33486.6,Regular Customer
+C011,140,5,14032.2,At-Risk Customer
+C012,23,5,25826.4,Champion
+C013,96,5,5661.9,At-Risk Customer
+C014,169,5,25288.5,At-Risk Customer
+C015,52,5,29391.6,Loyal Customer
+C016,125,5,45208.100000000006,At-Risk Customer
+C017,8,5,41332.2,Champion
+C018,81,5,14747.7,Regular Customer
+C019,144,5,40491.9,At-Risk Customer
+C020,37,5,97738.5,Loyal Customer
+C021,100,5,27711.6,At-Risk Customer
+C022,173,5,11888.099999999999,At-Risk Customer
+C023,56,5,21832.2,Loyal Customer
+C024,129,5,24587.7,At-Risk Customer
+C025,12,5,12951.9,Champion
+C026,85,5,10338.5,Regular Customer
+C027,158,5,9790.2,At-Risk Customer
+C028,41,5,17838.1,Loyal Customer
+C029,114,5,72260.1,At-Risk Customer
+C030,177,5,15977.7,At-Risk Customer
+C031,70,5,12990.0,Regular Customer
+C032,133,5,51738.5,At-Risk Customer
+C033,26,5,22530.2,Champion
+C034,89,5,83288.1,Regular Customer
+C035,162,5,24740.1,At-Risk Customer
+C036,45,5,22127.7,Loyal Customer
+C037,118,5,18990.0,At-Risk Customer
+C038,1,5,8038.5,Champion
+C039,74,5,21550.2,Regular Customer
+C040,147,5,48286.2,At-Risk Customer
+C041,30,5,37610.1,Champion
+C042,103,5,71006.6,At-Risk Customer
+C043,166,5,11990.0,At-Risk Customer
+C044,59,5,67986.4,Loyal Customer
+C045,122,5,83290.2,At-Risk Customer
+C046,15,5,45526.2,Champion
+C047,78,5,9890.1,Regular Customer
+C048,151,5,37506.6,At-Risk Customer
+C049,34,5,19990.0,Loyal Customer
+C050,107,5,21746.4,At-Risk Customer
